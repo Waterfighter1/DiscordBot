@@ -11,5 +11,14 @@
   "dependencies": {
     "chalk-animation": "^1.6.0",
     "discord.js": "^13.6.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waterfighter1/DiscordBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Waterfighter1/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/Waterfighter1/DiscordBot#readme"
 }
